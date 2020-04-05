@@ -96,8 +96,3 @@ function Incidents() {
 }
 
 export default Incidents;
-
-//tempo do video que parei: 1:10:14 RESOLVIDO
-//falta integrar a api PENDENTE
-//intalar o axios RESOLVIDO
-//resolver a porra que o expo fez instalando dois gerenciadores de pacotes RESOLVIDO
